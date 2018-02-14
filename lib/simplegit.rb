@@ -1,3 +1,4 @@
+# Change at Master 3
 # Change at Master 2
 # Change at Master
 # a super simple example class to use git in ruby
